@@ -1,4 +1,3 @@
 Cool-projects
 =============
-
-Personal projects
+This is the readme of first repo.
